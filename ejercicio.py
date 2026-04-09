@@ -58,3 +58,54 @@
 # #btw
 # print("El auto marca {} tiene un precui de ${:,} y con el descuento del 10% le queda en ${:,}".format(marca, precio, precio*0,9))
 
+# edad = int(input("Ingrese su edad: "))
+# if edad >= 18:
+#     print("Puede votar")
+# else:
+#     print("No puede votar")
+# print("viva la democracia!!")
+
+
+
+
+# No se puede :,v
+#
+# if (edad >= 18){
+#     print("Puede votar")
+#     }
+# else{
+#     print("No puede votar")
+#     }
+
+
+
+# edad = int(input("Ingrese su edad: "))
+# if edad >= 18:
+#     print("Puede votar")
+# elif edad>=17:
+#     print("En un año o menos puede votar")
+# else:
+#     print("No puede votar")
+
+# edad = int(input("Ingrese su edad: "))
+# if edad >= 18:
+#     print("Puede votar")
+# else:
+#     if edad>=17:
+#         print("En un año o menos puede votar")
+#     else:
+#         print("No puede votar")
+
+
+# estado_civil = input ("Ingrese estado civil (s,c): ")
+# edad = int(input("Ingrese su edad: "))
+# buena_persona = input ("¿Es una buena persona? (s,n): ")
+# linda = input ("¿Es linda? (s,n): ")
+# if estado_civil == "c":
+#     print("no me caso ni me comprometo")
+# elif edad <= 30 and linda == "s" or buena_persona =="s":
+#     print("Si me caso!")
+# else:
+#     print("Solo me comprometo")
+
+
