@@ -118,13 +118,26 @@
 # El programa debe rechazar la pieza ante cualquier estándar no cumplido.
 
 
-calidad = input("Ingrese el estandar de calidad (1-cumplido/0-no cumplido)")
-estado = ""
-if calidad == "1":
-    estado = "No defectuosa"
-    print("La pieza ta buena")
-    print(f"Estado: {estado}")
-else: 
-    estado = "Defectuosa"
-    print("La pieza no ta buena")
-    print(f"Estado: {estado}")
+# calidad = input("Ingrese el estandar de calidad (1-cumplido/0-no cumplido)")
+# estado = ""
+# if calidad == "1":
+#     estado = "No defectuosa"
+#     print("La pieza ta buena")
+#     print(f"Estado: {estado}")
+# else: 
+#     estado = "Defectuosa"
+#     print("La pieza no ta buena")
+#     print(f"Estado: {estado}")
+
+
+
+# calidad = input("Ingrese los estándares (ej. 1101): ")
+
+# if "0" in calidad:
+#     estado = "Defectuosa"
+#     print("La pieza NO cumple con todos los estándares. (RECHAZADA)")
+#     print(f"Estado: {estado}")
+# else:
+#     estado = "Aprobada"
+#     print("La pieza cumple con todos los estándares. (APROBADA)")
+#     print(f"Estado: {estado}")
